@@ -1,5 +1,5 @@
 # Data Engineering Deep Dive: Analyzing Olympics with Azure
-DataEngineering_Deep Dive: Analyzing_OlympicswithAzure
+
 Here's a simple step-by-step outline for your pipeline diagram:
 
 Data Sources: Used a GitHub repository with CSV files 
